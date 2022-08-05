@@ -1,0 +1,14 @@
+
+ssh and device control
+-PuTTY  (ssh connection to do configuration and enable vnc server)
+-vncviewer (configuration to enable camera)
+
+program tools
+-Advanced IP Scanner (to find rasberryPi ip to connect vnc or you and login vnc to pass connecting with local ip)
+-Raspberry pi Imager (to setup raspi and setup SSID wifi, ssh)
+-Win32DiskImager (to clone sdcard to image File)
+
+
+#how to preview photo in vnc
+ go to VNC options > troubleshooting and enable "experimental direct capture mode",
+ then you'll be able to view the camera preview image over the vnc connection.
