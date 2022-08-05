@@ -1,0 +1,6 @@
+setup sdcard and ssid wifi connection
+https://www.youtube.com/watch?v=eS-N8NCB9rk
+auto run script at frist boot
+https://www.youtube.com/watch?v=QURDIPd7X_c
+safe shutdown switch
+https://www.youtube.com/watch?v=qAzheiZlB9k
