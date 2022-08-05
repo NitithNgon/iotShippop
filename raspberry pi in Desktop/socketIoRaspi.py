@@ -30,7 +30,7 @@ def activeCamera(status):
     if status==False:
         print('status:',status,'deActiveCamera')
         global deActive
-        deActive=True;
+        deActive=True
         
 def takePicture():
     BUTTON_PIN = 4
